@@ -53,7 +53,7 @@ public class Main {
         else
             System.out.println("Доставка не осуществляется");
 
-        //Задача5
+        ///Задача5
         System.out.println("Задача5");
         int monthNumber = 13;
         if (monthNumber <= 12) {
